@@ -1,5 +1,6 @@
 # RISE Neutron Deficient Al Repo
-This is a snapshot of the analysis code used for the RISE paper "Nuclear charge radii of aluminum isotopes at the proton drip line". The raw data is too large to include on github, but will be uploaded to Zenodo. All necessary steps for reproducing the analysis yourself are given below. For this analysis, I used **64-bit python 3.13 on Windows**, with the following dependency list:
+This is a snapshot of the analysis code used for the RISE paper "Nuclear charge radii of aluminum isotopes at the proton drip line". The raw data is too large to include on github, but has been uploaded to Zenodo (https://doi.org/10.5281/zenodo.23204321).
+All necessary steps for reproducing the analysis yourself are given below. For this analysis, I used **64-bit python 3.13 on Windows**, with the following dependency list:
 |Package|        Version I used|
 |-|-|
 |numpy|         2.2.5 |
